@@ -1,2 +1,2 @@
-# Hospitality2
+# Hospitality
 Created with CodeSandbox
